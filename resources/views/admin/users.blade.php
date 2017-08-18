@@ -1,7 +1,7 @@
 
 @extends('layouts.admin')
 
-@section('title', '后台')
+@section('title', '用户')
 
 @section('content')
     <div class="content">
